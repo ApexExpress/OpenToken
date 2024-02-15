@@ -5,7 +5,7 @@ Thanks for checking out the code source.
 This breifly describes the overview for the project workspace
 
 ## Networking
-How to setup a netowrk
+How to setup a network
 
 ## Contribution
 How you can make a difference today
