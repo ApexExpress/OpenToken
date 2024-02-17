@@ -1,8 +1,29 @@
 # Welcome
 Thanks for checking out the code source.
-
++ Come back for more updates
++ else use exit
+  return 01;
+  
 ## Open Token Users
 This breifly describes the overview for the project workspace
+
++ Introducution
+  Introduction for this project refered to as " Open Token Platform" about creating a safe space
+  for developers to write code and do other activitys to demostrate their understanding while
+  on the platform.
+  
++ Workspace
+  Workspace was generated on github
+  user would generate workspace via link online resource
+  
++ Source Code
+The source code is free from error basic read and write models.
+
++ Edit
+source code edit
+
++ Final
+push final marketing project
 
 ## Networking
 How to setup a network
