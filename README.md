@@ -2,7 +2,7 @@
 Thanks for checking out the code source.
 * Come back for more updates
   
-## Open Token Users
+## Open Token Platform & Users
 This breifly describes the overview for the project workspace.
 
 * Intro
