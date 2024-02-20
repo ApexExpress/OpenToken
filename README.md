@@ -67,3 +67,34 @@ Open Token was founded for users and developers to gain more of a platform for t
 * Blockchain Network 2024
 
 reserved{ copyright proof of work 2024}
+
+## Welcome
+
+Introduction to the platform and how users can get involved in the project.
+
+## Source Network Code
+
+@ Apex Express ( CJ ) I would be interested in your perspective
+if you see a differnt way around let me know
+
+## Timestamp Source Code
+
+import system from source
+Make New File & Edit: Tuesday, February 20, 2024 10:55:19 AM
+
+## Development Training Module
+
+This section is for contribution to the project.
+Learn how to create a new module.
+
+## Credits / Copyrights / Reserved: 2024
+
+```
+Authorship      -> coded by: CJ ( Apex Express )
+Legal           -> CJ Apex Express
+Terms           -> Cookies GDPR Token Security
+Actions         -> share like subscribe bookmark
+Share           -> link back for resources source
+Like            -> for more information updates
+Subscribe       -> @ApexExpress via Github/com
+```
