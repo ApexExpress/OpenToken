@@ -1,42 +1,54 @@
 # Welcome
 Thanks for checking out the code source.
-+ Come back for more updates
-+ else use exit
-  return 01;
+* Come back for more updates
   
 ## Open Token Users
-This breifly describes the overview for the project workspace
+This breifly describes the overview for the project workspace.
 
-+ Introducution
+* Intro
+
   Introduction for this project refered to as " Open Token Platform" about creating a safe space
   for developers to write code and do other activitys to demostrate their understanding while
   on the platform.
   
-+ Workspace
-  Workspace was generated on github
-  user would generate workspace via link online resource
-  
-+ Source Code
-The source code is free from error basic read and write models.
+* Workspace
 
-+ Edit
+  Workspace was src generated on github
+  user would generate workspace via src link online resource
+  
+* Source Code
+The source code src is free from error basic read and write models.
+Written in perl other languages can be constructed.
+
+* Edit
 source code edit
 
-+ Final
+* Final
 push final marketing project
 
 ## Networking
-How to setup a network
+Configure a test network
+    + test net
+    + blockchain
+    + open token my-project
 
 ## Contribution
-How you can make a difference today
+
+How you can make a difference today submit a pull request
+upload your information via github to my project to help
+build it or fork your own project from what I have started
+making it your own.
+
++ pull request
++ update website
 
 ## Subscriptions
-When you subscribe you follow the other user and support them with a smaller normal flat rate fee
+There are no subscriptions at the moment.
 
 ## Outreach/Awards
 Find the resources you need here about Open Token projects
-Awards will be earned
+Awards will be earned.
++[OpenToken/Project/Awards]
 
 ## General
 Generally disscuss a project you have been working on
@@ -48,4 +60,10 @@ Find the next open token user next location for a meet up
 Learn how to create your own Open Token 
 
 ## What it means
-Open Token was founded for users and developers to gain more of a platform for themselfs to be unique and strive to do better
+
+Open Token was founded for users and developers to gain more of a platform for themselfs to be unique and strive to do better.
+
++ Open Token Project 2024
+* Blockchain Network 2024
+
+reserved{ copyright proof of work 2024}
