@@ -64,7 +64,7 @@ Learn how to create your own Open Token
 Open Token was founded for users and developers to gain more of a platform for themselfs to be unique and strive to do better.
 
 + Open Token Project 2024
-* Blockchain Network 2024
+* Adhox Network    2024
 
 reserved{ copyright proof of work 2024}
 
